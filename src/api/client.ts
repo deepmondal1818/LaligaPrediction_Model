@@ -35,6 +35,22 @@ export interface PredictionResult {
         poisson: string;
         predictor: string;
     };
+    h2h_history: any[];
+    player_impact?: {
+        home_key_player: {
+            top_scorer: string;
+            goals: number;
+            key_injured: boolean;
+        };
+        away_key_player: {
+            top_scorer: string;
+            goals: number;
+            key_injured: boolean;
+        };
+        home_injured: boolean;
+        away_injured: boolean;
+        insight: string;
+    };
 }
 
 export interface TeamPerformance {
@@ -70,6 +86,12 @@ export const api = {
             body: JSON.stringify({ home_team: homeTeam, away_team: awayTeam }),
         });
         if (!response.ok) throw new Error('Failed to get prediction');
+        return response.json();
+    },
+
+    getHistory: async (): Promise<any[]> => {
+        const response = await fetch(`${API_BASE_URL}/history`);
+        if (!response.ok) throw new Error('Failed to fetch history');
         return response.json();
     }
 };

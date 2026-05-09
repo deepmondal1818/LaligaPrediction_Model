@@ -10,9 +10,11 @@ export function ModelComparison({ result }: ModelComparisonProps) {
 
     return (
         <div className="space-y-6">
-            <div className="flex items-center gap-2">
-                <div className="w-1.5 h-6 bg-amber-500 rounded-full" />
-                <h2 className="text-2xl font-bold text-slate-800">AI Model Comparison</h2>
+            <div className="flex items-center justify-between">
+                <div className="flex items-center gap-2">
+                    <div className="w-1.5 h-6 bg-rose-600 rounded-full" />
+                    <h2 className="text-2xl font-bold text-slate-800 uppercase tracking-tight">AI Model Comparison</h2>
+                </div>
             </div>
 
             <div className="grid md:grid-cols-2 gap-6">

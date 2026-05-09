@@ -1,902 +1,3422 @@
 [
   {
-    "id": "seed-0",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Barcelona",
-    "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-1",
+    "id": "2023-2024-56",
     "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Athletic Club",
-    "homeScore": 0,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-2",
-    "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Valencia",
-    "homeScore": 4,
+    "awayTeam": "Granada",
+    "homeScore": 1,
     "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-03-11",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-3",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Girona",
+    "id": "2023-2024-204",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-03-11",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-266",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-03-11",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-79",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Athletic Club",
     "homeScore": 2,
     "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-03-12",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-4",
-    "homeTeam": "Girona",
+    "id": "2023-2024-252",
+    "homeTeam": "Getafe",
     "awayTeam": "Villarreal",
-    "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-03-12",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-5",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Valencia",
+    "id": "2023-2024-46",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-03-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-329",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Real Betis",
     "homeScore": 3,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-03-13",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-6",
-    "homeTeam": "Valencia",
+    "id": "2023-2024-233",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Villarreal",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-03-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-235",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Valencia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-03-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-40",
+    "homeTeam": "Atl\u00e9tico Madrid",
     "awayTeam": "Athletic Club",
-    "homeScore": 3,
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-03-16",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-257",
+    "homeTeam": "Getafe",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 1,
     "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-03-16",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-7",
-    "homeTeam": "Girona",
-    "awayTeam": "Real Sociedad",
+    "id": "2023-2024-8",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Girona",
     "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayScore": 1,
+    "date": "2025-03-17",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-8",
-    "homeTeam": "Real Sociedad",
+    "id": "2023-2024-60",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-03-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-342",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-03-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-350",
+    "homeTeam": "Almer\u00eda",
     "awayTeam": "Sevilla",
     "homeScore": 1,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayScore": 1,
+    "date": "2025-03-20",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-9",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Villarreal",
+    "id": "2023-2024-34",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-03-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-211",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-03-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-207",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-03-28",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-315",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Osasuna",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-03-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-9",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-03-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-87",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-03-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-77",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Barcelona",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-04-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-11",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-04-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-78",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Atl\u00e9tico Madrid",
     "homeScore": 1,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-04-06",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-10",
-    "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Villarreal",
-    "homeScore": 3,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "id": "2023-2024-215",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-07",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-11",
+    "id": "2023-2024-16",
     "homeTeam": "Real Madrid",
-    "awayTeam": "Real Sociedad",
-    "homeScore": 3,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-08",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-12",
+    "id": "2023-2024-368",
+    "homeTeam": "Granada",
+    "awayTeam": "Valencia",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-04-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-47",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-04-09",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-113",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-09",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-143",
+    "homeTeam": "Valencia",
+    "awayTeam": "Osasuna",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-04-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-245",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-217",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-0",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Barcelona",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-04-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-377",
+    "homeTeam": "Granada",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-31",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Getafe",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-366",
+    "homeTeam": "Granada",
+    "awayTeam": "Villarreal",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-04-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-61",
     "homeTeam": "Athletic Club",
     "awayTeam": "Villarreal",
-    "homeScore": 1,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-13",
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Real Betis",
-    "homeScore": 0,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-14",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Sevilla",
-    "homeScore": 0,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-15",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Valencia",
-    "homeScore": 1,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-16",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Valencia",
-    "homeScore": 4,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-17",
-    "homeTeam": "Villarreal",
-    "awayTeam": "Real Madrid",
-    "homeScore": 2,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-18",
-    "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Real Madrid",
     "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayScore": 1,
+    "date": "2025-04-16",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-19",
-    "homeTeam": "Girona",
-    "awayTeam": "Sevilla",
-    "homeScore": 1,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "id": "2023-2024-197",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Valencia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-16",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-20",
-    "homeTeam": "Villarreal",
-    "awayTeam": "Barcelona",
-    "homeScore": 4,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-21",
-    "homeTeam": "Real Sociedad",
+    "id": "2023-2024-290",
+    "homeTeam": "Las Palmas",
     "awayTeam": "Villarreal",
-    "homeScore": 4,
+    "homeScore": 1,
     "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-04-16",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-22",
+    "id": "2023-2024-346",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-135",
+    "homeTeam": "Valencia",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-226",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-04-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-323",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-328",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-151",
+    "homeTeam": "Valencia",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-04-24",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-190",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-24",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-48",
     "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Girona",
-    "homeScore": 4,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-04-28",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-23",
+    "id": "2023-2024-321",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-04-28",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-163",
     "homeTeam": "Sevilla",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-04-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-124",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-256",
+    "homeTeam": "Getafe",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-147",
+    "homeTeam": "Valencia",
+    "awayTeam": "Las Palmas",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-05-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-162",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-38",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-153",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Barcelona",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-05-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-228",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-43",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-344",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-05-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-363",
+    "homeTeam": "Granada",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-140",
+    "homeTeam": "Valencia",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-28",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-216",
+    "homeTeam": "Osasuna",
     "awayTeam": "Valencia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-72",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-05-16",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-214",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-16",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-343",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Barcelona",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-05-16",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-110",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-307",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Athletic Club",
+    "homeScore": 1,
+    "awayScore": 3,
+    "date": "2025-05-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-333",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-05-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-353",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Osasuna",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-354",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-138",
+    "homeTeam": "Valencia",
+    "awayTeam": "Villarreal",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-05-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-53",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-05-20",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-75",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-20",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-177",
+    "homeTeam": "Girona",
+    "awayTeam": "Real Betis",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-20",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-371",
+    "homeTeam": "Granada",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-20",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-99",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Real Sociedad",
     "homeScore": 3,
     "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-05-23",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-24",
+    "id": "2023-2024-310",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Real Betis",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-05-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-330",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Valencia",
+    "homeScore": 0,
+    "awayScore": 3,
+    "date": "2025-05-24",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-139",
+    "homeTeam": "Valencia",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-05-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-10",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-05-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-311",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Valencia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-05-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-294",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-376",
+    "homeTeam": "Granada",
+    "awayTeam": "Las Palmas",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-05-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-264",
+    "homeTeam": "Getafe",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-05-31",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-42",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-06-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-114",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-06-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-299",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-06-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-25",
     "homeTeam": "Barcelona",
     "awayTeam": "Valencia",
     "homeScore": 2,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-06-09",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-25",
-    "homeTeam": "Valencia",
-    "awayTeam": "Girona",
-    "homeScore": 1,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-26",
-    "homeTeam": "Villarreal",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 4,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-27",
+    "id": "2023-2024-172",
     "homeTeam": "Girona",
-    "awayTeam": "Valencia",
-    "homeScore": 1,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-28",
-    "homeTeam": "Villarreal",
-    "awayTeam": "Real Betis",
-    "homeScore": 4,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-29",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Athletic Club",
-    "homeScore": 3,
+    "awayTeam": "Barcelona",
+    "homeScore": 2,
     "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-06-09",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-30",
-    "homeTeam": "Girona",
-    "awayTeam": "Real Madrid",
-    "homeScore": 0,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-31",
+    "id": "2023-2024-102",
     "homeTeam": "Villarreal",
-    "awayTeam": "Valencia",
-    "homeScore": 0,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-32",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Athletic Club",
-    "homeScore": 0,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-33",
-    "homeTeam": "Girona",
     "awayTeam": "Sevilla",
-    "homeScore": 0,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-06-11",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-34",
+    "id": "2023-2024-362",
+    "homeTeam": "Granada",
+    "awayTeam": "Barcelona",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-06-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-379",
+    "homeTeam": "Granada",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-06-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-134",
+    "homeTeam": "Valencia",
+    "awayTeam": "Barcelona",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-06-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-13",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-06-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-106",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-06-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-59",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-06-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-224",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-06-16",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-88",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Getafe",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-06-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-229",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Barcelona",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-06-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-20",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-06-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-322",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-06-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-127",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-06-24",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-169",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-06-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-359",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-06-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-157",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-06-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-237",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-07-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-369",
+    "homeTeam": "Granada",
+    "awayTeam": "Sevilla",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-07-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-93",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-07-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-227",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-07-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-98",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Athletic Club",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-108",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Mallorca",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-07-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-191",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Barcelona",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-07-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-231",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Athletic Club",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-364",
+    "homeTeam": "Granada",
+    "awayTeam": "Athletic Club",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-07-11",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-326",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Athletic Club",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-244",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-07-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-44",
     "homeTeam": "Atl\u00e9tico Madrid",
     "awayTeam": "Valencia",
     "homeScore": 3,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-35",
-    "homeTeam": "Villarreal",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 4,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-07-14",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-36",
+    "id": "2023-2024-131",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-07-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-129",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-07-16",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-15",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2025-07-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-37",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Granada",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-07-20",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-17",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-07-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-167",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-208",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Granada",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-251",
+    "homeTeam": "Getafe",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-12",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Getafe",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-07-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-183",
+    "homeTeam": "Girona",
+    "awayTeam": "Getafe",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-07-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-249",
+    "homeTeam": "Getafe",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-07-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-280",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-07-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-239",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Osasuna",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-07-26",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-81",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Real Betis",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-07-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-174",
+    "homeTeam": "Girona",
+    "awayTeam": "Athletic Club",
+    "homeScore": 3,
+    "awayScore": 3,
+    "date": "2025-07-28",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-23",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-07-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-277",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Osasuna",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-08-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-324",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Barcelona",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-91",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-08-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-148",
+    "homeTeam": "Valencia",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-246",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-08-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-68",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-08-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-121",
     "homeTeam": "Real Betis",
     "awayTeam": "Sevilla",
-    "homeScore": 1,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-08-06",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-37",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Girona",
-    "homeScore": 4,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "id": "2023-2024-188",
+    "homeTeam": "Girona",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-08-06",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-38",
-    "homeTeam": "Real Sociedad",
+    "id": "2023-2024-96",
+    "homeTeam": "Villarreal",
     "awayTeam": "Barcelona",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-08-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-273",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Valencia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-305",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Barcelona",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-08-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-160",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Girona",
     "homeScore": 3,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-08-10",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-39",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Girona",
-    "homeScore": 0,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "id": "2023-2024-274",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-10",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-40",
+    "id": "2023-2024-195",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-08-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-219",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-08-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-265",
+    "homeTeam": "Getafe",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-08-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-63",
     "homeTeam": "Athletic Club",
-    "awayTeam": "Real Madrid",
+    "awayTeam": "Valencia",
     "homeScore": 1,
     "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-08-16",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-41",
+    "id": "2023-2024-70",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Mallorca",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-08-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-279",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Getafe",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-111",
     "homeTeam": "Villarreal",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-08-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-301",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-08-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-374",
+    "homeTeam": "Granada",
+    "awayTeam": "Getafe",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-351",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Girona",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-08-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-254",
+    "homeTeam": "Getafe",
+    "awayTeam": "Valencia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-08-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-52",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Las Palmas",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2025-08-24",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-198",
+    "homeTeam": "Celta Vigo",
     "awayTeam": "Sevilla",
     "homeScore": 1,
     "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-08-24",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-42",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Girona",
-    "homeScore": 1,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-43",
-    "homeTeam": "Valencia",
-    "awayTeam": "Real Madrid",
-    "homeScore": 0,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-44",
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Villarreal",
-    "homeScore": 2,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-45",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Villarreal",
-    "homeScore": 0,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-46",
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Real Betis",
-    "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-47",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Real Sociedad",
-    "homeScore": 3,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-48",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 1,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-49",
-    "homeTeam": "Valencia",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 2,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-50",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Valencia",
-    "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-51",
-    "homeTeam": "Girona",
-    "awayTeam": "Sevilla",
-    "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-52",
+    "id": "2023-2024-33",
     "homeTeam": "Barcelona",
-    "awayTeam": "Girona",
-    "homeScore": 2,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-08-25",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-53",
-    "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Girona",
-    "homeScore": 4,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-54",
-    "homeTeam": "Valencia",
-    "awayTeam": "Girona",
-    "homeScore": 3,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-55",
+    "id": "2023-2024-136",
     "homeTeam": "Valencia",
     "awayTeam": "Athletic Club",
-    "homeScore": 2,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-56",
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Athletic Club",
-    "homeScore": 3,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-57",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 2,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-58",
-    "homeTeam": "Valencia",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 3,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-59",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Girona",
-    "homeScore": 2,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-60",
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 2,
+    "homeScore": 1,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-08-25",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-61",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Girona",
-    "homeScore": 3,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-62",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 2,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-63",
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Real Betis",
-    "homeScore": 2,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-64",
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Villarreal",
-    "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-65",
+    "id": "2023-2024-104",
     "homeTeam": "Villarreal",
-    "awayTeam": "Athletic Club",
-    "homeScore": 1,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-66",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Real Sociedad",
-    "homeScore": 2,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-67",
-    "homeTeam": "Valencia",
-    "awayTeam": "Athletic Club",
-    "homeScore": 2,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-68",
-    "homeTeam": "Girona",
-    "awayTeam": "Real Sociedad",
-    "homeScore": 0,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-69",
-    "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Barcelona",
-    "homeScore": 4,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-70",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Valencia",
-    "homeScore": 2,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-71",
-    "homeTeam": "Real Sociedad",
-    "awayTeam": "Villarreal",
-    "homeScore": 2,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-72",
-    "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Athletic Club",
+    "awayTeam": "Celta Vigo",
     "homeScore": 1,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-08-26",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-73",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Girona",
-    "homeScore": 3,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-74",
-    "homeTeam": "Girona",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 2,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-75",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Real Sociedad",
-    "homeScore": 4,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-76",
-    "homeTeam": "Valencia",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 3,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-77",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Real Betis",
-    "homeScore": 4,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-78",
-    "homeTeam": "Girona",
-    "awayTeam": "Real Madrid",
+    "id": "2023-2024-282",
+    "homeTeam": "Mallorca",
+    "awayTeam": "C\u00e1diz",
     "homeScore": 1,
     "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-08-26",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-79",
+    "id": "2023-2024-338",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-116",
     "homeTeam": "Real Betis",
-    "awayTeam": "Villarreal",
-    "homeScore": 4,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-08-30",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-80",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Real Betis",
-    "homeScore": 4,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "id": "2023-2024-194",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-08-30",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-81",
-    "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Real Madrid",
+    "id": "2023-2024-286",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Barcelona",
     "homeScore": 2,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayScore": 1,
+    "date": "2025-08-30",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-82",
-    "homeTeam": "Real Madrid",
+    "id": "2023-2024-155",
+    "homeTeam": "Sevilla",
     "awayTeam": "Athletic Club",
     "homeScore": 2,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-83",
-    "homeTeam": "Girona",
-    "awayTeam": "Real Betis",
-    "homeScore": 2,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-08-31",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-84",
-    "homeTeam": "Sevilla",
-    "awayTeam": "Barcelona",
+    "id": "2023-2024-193",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Athletic Club",
     "homeScore": 1,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayScore": 1,
+    "date": "2025-08-31",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-85",
-    "homeTeam": "Real Madrid",
-    "awayTeam": "Sevilla",
+    "id": "2023-2024-30",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Alav\u00e9s",
     "homeScore": 3,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-86",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Real Betis",
-    "homeScore": 1,
     "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-09-01",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-87",
-    "homeTeam": "Valencia",
-    "awayTeam": "Real Sociedad",
-    "homeScore": 3,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-88",
+    "id": "2023-2024-51",
     "homeTeam": "Atl\u00e9tico Madrid",
-    "awayTeam": "Sevilla",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-09-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-365",
+    "homeTeam": "Granada",
+    "awayTeam": "Real Sociedad",
     "homeScore": 2,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayScore": 2,
+    "date": "2025-09-02",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-89",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Real Madrid",
-    "homeScore": 0,
+    "id": "2023-2024-65",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Girona",
+    "homeScore": 2,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-09-04",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-90",
-    "homeTeam": "Barcelona",
-    "awayTeam": "Real Betis",
+    "id": "2023-2024-232",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Real Sociedad",
     "homeScore": 1,
     "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-09-04",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-91",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 2,
+    "id": "2023-2024-92",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 1,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-09-05",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-92",
+    "id": "2023-2024-349",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Valencia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-378",
+    "homeTeam": "Granada",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-159",
     "homeTeam": "Sevilla",
-    "awayTeam": "Barcelona",
-    "homeScore": 0,
-    "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-93",
-    "homeTeam": "Villarreal",
     "awayTeam": "Valencia",
     "homeScore": 2,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
-  },
-  {
-    "id": "seed-94",
-    "homeTeam": "Valencia",
-    "awayTeam": "Girona",
-    "homeScore": 0,
     "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-09-06",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-95",
-    "homeTeam": "Valencia",
-    "awayTeam": "Real Betis",
+    "id": "2023-2024-83",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Sevilla",
     "homeScore": 1,
-    "awayScore": 2,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayScore": 0,
+    "date": "2025-09-08",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-96",
+    "id": "2023-2024-122",
     "homeTeam": "Real Betis",
     "awayTeam": "Girona",
-    "homeScore": 4,
-    "awayScore": 1,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-09-11",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-97",
+    "id": "2023-2024-186",
+    "homeTeam": "Girona",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-09-11",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-202",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Getafe",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-09-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-268",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-09-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-21",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Athletic Club",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-158",
     "homeTeam": "Sevilla",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-181",
+    "homeTeam": "Girona",
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-09-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-259",
+    "homeTeam": "Getafe",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-320",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-09-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-126",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Getafe",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-09-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-205",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-09-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-258",
+    "homeTeam": "Getafe",
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-09-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-317",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Getafe",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-09-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-84",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-09-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-149",
+    "homeTeam": "Valencia",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-09-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-142",
+    "homeTeam": "Valencia",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-09-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-283",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-09-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-50",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Getafe",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-150",
+    "homeTeam": "Valencia",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-09-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-285",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-4",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-09-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-73",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-306",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 1,
+    "awayScore": 3,
+    "date": "2025-09-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-94",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-09-28",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-356",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-09-28",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-357",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-09-28",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-119",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Villarreal",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-09-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-71",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-209",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-238",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-10-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-278",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-10-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-312",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Sevilla",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-10-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-49",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-10-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-296",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-10-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-358",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-10-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-300",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-304",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-218",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Girona",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-10-09",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-89",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Mallorca",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-10-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-253",
+    "homeTeam": "Getafe",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-27",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-10-11",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-220",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-10-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-164",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Getafe",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-10-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-313",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-10-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-97",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-10-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-36",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-10-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-292",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Valencia",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-10-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-360",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Granada",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-137",
+    "homeTeam": "Valencia",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-242",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-287",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-10-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-76",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Real Madrid",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2025-10-26",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-255",
+    "homeTeam": "Getafe",
+    "awayTeam": "Sevilla",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-10-26",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-260",
+    "homeTeam": "Getafe",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-10-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-318",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-261",
+    "homeTeam": "Getafe",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-10-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-199",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Girona",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-10-31",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-58",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Barcelona",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-11-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-308",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-11-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-347",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-39",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Barcelona",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-11-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-222",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-341",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-372",
+    "homeTeam": "Granada",
+    "awayTeam": "Osasuna",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-11-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-225",
+    "homeTeam": "Osasuna",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-11-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-241",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-64",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Sevilla",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-176",
+    "homeTeam": "Girona",
+    "awayTeam": "Villarreal",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-11-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-293",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-11-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-19",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Real Madrid",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-11-09",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-32",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-11-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-288",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Athletic Club",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-262",
+    "homeTeam": "Getafe",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-11",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-55",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-11-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-112",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-11-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-120",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Valencia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-340",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-210",
+    "homeTeam": "Osasuna",
     "awayTeam": "Barcelona",
     "homeScore": 2,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "awayScore": 1,
+    "date": "2025-11-17",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-98",
-    "homeTeam": "Villarreal",
-    "awayTeam": "Real Sociedad",
-    "homeScore": 4,
-    "awayScore": 3,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "id": "2023-2024-212",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Athletic Club",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-17",
+    "season": "2023-2024"
   },
   {
-    "id": "seed-99",
-    "homeTeam": "Athletic Club",
-    "awayTeam": "Atl\u00e9tico Madrid",
-    "homeScore": 4,
+    "id": "2023-2024-14",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-303",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Granada",
+    "homeScore": 2,
     "awayScore": 0,
-    "date": "2026-03-08",
-    "season": "2024-2025"
+    "date": "2025-11-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-24",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Real Betis",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-345",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Athletic Club",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-370",
+    "homeTeam": "Granada",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-11-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-67",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Osasuna",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-11-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-295",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-11-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-332",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Girona",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-11-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-154",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-11-24",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-152",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Real Madrid",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-11-26",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-29",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-28",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-236",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Sevilla",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-11-28",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-248",
+    "homeTeam": "Getafe",
+    "awayTeam": "Barcelona",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-11-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-367",
+    "homeTeam": "Granada",
+    "awayTeam": "Real Betis",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-85",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-11-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-355",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Getafe",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-12-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-335",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-12-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-161",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-12-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-182",
+    "homeTeam": "Girona",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-250",
+    "homeTeam": "Getafe",
+    "awayTeam": "Athletic Club",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2025-12-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-1",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-12-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-100",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-12-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-180",
+    "homeTeam": "Girona",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-12-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-184",
+    "homeTeam": "Girona",
+    "awayTeam": "Mallorca",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-12-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-334",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Osasuna",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-12-05",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-5",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Real Betis",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2025-12-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-57",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Real Madrid",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-12-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-165",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-12-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-221",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Getafe",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-12-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-18",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Granada",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-12-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-26",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-12-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-146",
+    "homeTeam": "Valencia",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-12-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-132",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-09",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-22",
+    "homeTeam": "Barcelona",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-12-11",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-123",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-12-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-141",
+    "homeTeam": "Valencia",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-291",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-12-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-7",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-12-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-230",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-62",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Real Betis",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-168",
+    "homeTeam": "Sevilla",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2025-12-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-95",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Real Madrid",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-12-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-361",
+    "homeTeam": "Granada",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-12-20",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-69",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Getafe",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-179",
+    "homeTeam": "Girona",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-12-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-107",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Getafe",
+    "homeScore": 3,
+    "awayScore": 0,
+    "date": "2025-12-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-267",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Barcelona",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2025-12-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-103",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-12-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-339",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-12-24",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-101",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Valencia",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2025-12-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-314",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2025-12-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-192",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2025-12-26",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-171",
+    "homeTeam": "Girona",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2025-12-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-133",
+    "homeTeam": "Valencia",
+    "awayTeam": "Real Madrid",
+    "homeScore": 1,
+    "awayScore": 3,
+    "date": "2025-12-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-175",
+    "homeTeam": "Girona",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-12-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-206",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2025-12-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-178",
+    "homeTeam": "Girona",
+    "awayTeam": "Valencia",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-336",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Getafe",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2025-12-30",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-117",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Athletic Club",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-31",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-203",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Mallorca",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2025-12-31",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-128",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-01-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-3",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-201",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-01-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-213",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-01-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-125",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-01-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-331",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-01-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-352",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-01-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-327",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-01-04",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-156",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-01-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-200",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Osasuna",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2026-01-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-247",
+    "homeTeam": "Getafe",
+    "awayTeam": "Real Madrid",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2026-01-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-271",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-270",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-01-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-173",
+    "homeTeam": "Girona",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-01-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-86",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Osasuna",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-09",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-35",
+    "homeTeam": "Barcelona",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-130",
+    "homeTeam": "Real Betis",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-302",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-01-10",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-196",
+    "homeTeam": "Celta Vigo",
+    "awayTeam": "Real Betis",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-01-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-272",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-01-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-309",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-281",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-01-21",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-234",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Real Betis",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-6",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Valencia",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-01-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-189",
+    "homeTeam": "Girona",
+    "awayTeam": "Granada",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-01-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-276",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-316",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-01-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-105",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Osasuna",
+    "homeScore": 0,
+    "awayScore": 0,
+    "date": "2026-01-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-298",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Getafe",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-01-27",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-145",
+    "homeTeam": "Valencia",
+    "awayTeam": "Getafe",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-01-29",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-54",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-02-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-187",
+    "homeTeam": "Girona",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-02-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-240",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Getafe",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-109",
+    "homeTeam": "Villarreal",
+    "awayTeam": "Las Palmas",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-325",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Atl\u00e9tico Madrid",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2026-02-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-373",
+    "homeTeam": "Granada",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-02-06",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-66",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Celta Vigo",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-02-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-375",
+    "homeTeam": "Granada",
+    "awayTeam": "Mallorca",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-07",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-2",
+    "homeTeam": "Real Madrid",
+    "awayTeam": "Athletic Club",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2026-02-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-115",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Barcelona",
+    "homeScore": 0,
+    "awayScore": 2,
+    "date": "2026-02-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-144",
+    "homeTeam": "Valencia",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-02-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-319",
+    "homeTeam": "Rayo Vallecano",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-02-08",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-263",
+    "homeTeam": "Getafe",
+    "awayTeam": "C\u00e1diz",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-02-09",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-41",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 2,
+    "awayScore": 0,
+    "date": "2026-02-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-275",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Girona",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-02-12",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-82",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Valencia",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-02-13",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-166",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Las Palmas",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-14",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-170",
+    "homeTeam": "Sevilla",
+    "awayTeam": "Granada",
+    "homeScore": 2,
+    "awayScore": 2,
+    "date": "2026-02-15",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-118",
+    "homeTeam": "Real Betis",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 3,
+    "awayScore": 1,
+    "date": "2026-02-17",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-90",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Las Palmas",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-337",
+    "homeTeam": "C\u00e1diz",
+    "awayTeam": "Mallorca",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-02-18",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-243",
+    "homeTeam": "Alav\u00e9s",
+    "awayTeam": "Rayo Vallecano",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-02-19",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-74",
+    "homeTeam": "Athletic Club",
+    "awayTeam": "Almer\u00eda",
+    "homeScore": 1,
+    "awayScore": 0,
+    "date": "2026-02-22",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-80",
+    "homeTeam": "Real Sociedad",
+    "awayTeam": "Villarreal",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-284",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Granada",
+    "homeScore": 0,
+    "awayScore": 1,
+    "date": "2026-02-23",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-185",
+    "homeTeam": "Girona",
+    "awayTeam": "Las Palmas",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-24",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-269",
+    "homeTeam": "Mallorca",
+    "awayTeam": "Athletic Club",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-02-25",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-348",
+    "homeTeam": "Almer\u00eda",
+    "awayTeam": "Real Betis",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-03-01",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-45",
+    "homeTeam": "Atl\u00e9tico Madrid",
+    "awayTeam": "Sevilla",
+    "homeScore": 1,
+    "awayScore": 2,
+    "date": "2026-03-02",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-223",
+    "homeTeam": "Osasuna",
+    "awayTeam": "Las Palmas",
+    "homeScore": 1,
+    "awayScore": 1,
+    "date": "2026-03-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-297",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Alav\u00e9s",
+    "homeScore": 2,
+    "awayScore": 1,
+    "date": "2026-03-03",
+    "season": "2023-2024"
+  },
+  {
+    "id": "2023-2024-289",
+    "homeTeam": "Las Palmas",
+    "awayTeam": "Real Sociedad",
+    "homeScore": 3,
+    "awayScore": 2,
+    "date": "2026-03-05",
+    "season": "2023-2024"
   }
 ]

@@ -65,23 +65,64 @@ class RandomForestModel:
             self.model.fit(X, y)
             self.is_trained = True
 
-    def predict(self, home_team, away_team):
+    def predict(self, home_team, away_team, home_injured=False, away_injured=False):
         if not self.is_trained: return None
         try:
             h_id = self.le_teams.transform([home_team])[0]
             a_id = self.le_teams.transform([away_team])[0]
             
-            # Use some defaults for simulation if data is sparse
+            # Use actual rolling stats from the dataset
+            with open(self.data_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
+            df = pd.DataFrame(data)
+            df['homeTeam'] = df['homeTeam'].str.strip()
+            df['awayTeam'] = df['awayTeam'].str.strip()
+            
+            def get_rolling_stats(team, is_home):
+                team_matches = df[(df['homeTeam'] == team) | (df['awayTeam'] == team)].tail(5)
+                if team_matches.empty:
+                    return 1.5, 1.2 # Fallback
+                
+                scored = np.where(team_matches['homeTeam'] == team, team_matches['homeScore'], team_matches['awayScore'])
+                conceded = np.where(team_matches['homeTeam'] == team, team_matches['awayScore'], team_matches['homeScore'])
+                return scored.mean(), conceded.mean()
+
+            h_gf, h_ga = get_rolling_stats(home_team, True)
+            a_gf, a_ga = get_rolling_stats(away_team, False)
+            
             X_input = pd.DataFrame([{
                 'home_id': h_id, 'away_id': a_id,
-                'home_roll_gf': 1.8, 'home_roll_ga': 1.0,
-                'away_roll_gf': 1.4, 'away_roll_ga': 1.3
+                'home_roll_gf': h_gf, 'home_roll_ga': h_ga,
+                'away_roll_gf': a_gf, 'away_roll_ga': a_ga
             }])
             
             probs = self.model.predict_proba(X_input)[0]
+            home_prob = probs[2]
+            draw_prob = probs[1]
+            away_prob = probs[0]
+
+            # --- INJURY IMPACT LOGIC ---
+            # If a top scorer is out, drastically reduce their win probability and distribute to draw/loss
+            if home_injured:
+                penalty = home_prob * 0.15 # 15% relative drop in win probability
+                home_prob -= penalty
+                draw_prob += penalty * 0.6
+                away_prob += penalty * 0.4
+
+            if away_injured:
+                penalty = away_prob * 0.15
+                away_prob -= penalty
+                draw_prob += penalty * 0.6
+                home_prob += penalty * 0.4
+                
+            # Re-normalize to ensure they sum perfectly to 1
+            total = home_prob + draw_prob + away_prob
+
             return {
-                "home_win": round(probs[2] * 100, 1),
-                "draw": round(probs[1] * 100, 1),
-                "away_win": round(probs[0] * 100, 1)
+                "home_win": round((home_prob / total) * 100, 1),
+                "draw": round((draw_prob / total) * 100, 1),
+                "away_win": round((away_prob / total) * 100, 1)
             }
-        except: return None
+        except Exception as e:
+            print(f"Prediction error: {e}")
+            return None

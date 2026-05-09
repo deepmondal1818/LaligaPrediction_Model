@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LaLiga Predictor Pro – Workflow Diagram</title>
+  <style>
+    body {
+      margin: 0;
+      background: #f5f5f5;
+      font-family: 'Courier New', Courier, monospace;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 48px 24px;
+      min-height: 100vh;
+    }
+
+    h1 {
+      font-family: 'Courier New', monospace;
+      font-size: 18px;
+      font-weight: bold;
+      margin-bottom: 40px;
+      color: #111;
+      letter-spacing: 0.05em;
+      border-bottom: 2px solid #111;
+      padding-bottom: 8px;
+    }
+
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(3, 240px);
+      gap: 48px;
+      justify-content: center;
+    }
+
+    .flow-box {
+      background: #f0f0f0;
+      padding: 24px 28px;
+      font-size: 14px;
+      color: #111;
+      line-height: 2.0;
+    }
+
+    .flow-title {
+      font-weight: bold;
+      margin-bottom: 14px;
+      display: block;
+      font-size: 15px;
+    }
+
+    .step {
+      display: block;
+    }
+
+    .pipe {
+      display: block;
+      margin-left: 8px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>LaLiga Predictor Pro – System Workflow</h1>
+
+  <div class="grid">
+
+    <!-- Flow 1: Data Collection -->
+    <div class="flow-box">
+      <span class="flow-title">[ Data Collection ]</span>
+      <span class="step">Match History</span>
+      <span class="pipe"> |</span>
+      <span class="step">Team Statistics</span>
+      <span class="pipe"> |</span>
+      <span class="step">Player Status</span>
+      <span class="pipe"> |</span>
+      <span class="step">Structured Data</span>
+    </div>
+
+    <!-- Flow 2: Prediction Engine -->
+    <div class="flow-box">
+      <span class="flow-title">[ Prediction Engine ]</span>
+      <span class="step">Poisson Analysis</span>
+      <span class="pipe"> |</span>
+      <span class="step">Random Forest</span>
+      <span class="pipe"> |</span>
+      <span class="step">Form Analysis</span>
+      <span class="pipe"> |</span>
+      <span class="step">Injury Check</span>
+      <span class="pipe"> |</span>
+      <span class="step">Final Prediction</span>
+    </div>
+
+    <!-- Flow 3: API & Output -->
+    <div class="flow-box">
+      <span class="flow-title">[ API & Output ]</span>
+      <span class="step">Match Request</span>
+      <span class="pipe"> |</span>
+      <span class="step">API Processing</span>
+      <span class="pipe"> |</span>
+      <span class="step">Save to History</span>
+      <span class="pipe"> |</span>
+      <span class="step">Dashboard Display</span>
+    </div>
+
+  </div>
+
+</body>
+
+</html>

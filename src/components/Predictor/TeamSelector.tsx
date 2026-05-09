@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-import { Check, ChevronsUpDown, Sparkles } from "lucide-react";
+import { Check, ChevronsUpDown, Sparkles, AlertCircle } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import {
@@ -15,6 +15,7 @@ import {
     PopoverContent,
     PopoverTrigger,
 } from "@/components/ui/popover";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 import { api } from "@/api/client";
 
 interface TeamSelectorProps {
@@ -28,18 +29,23 @@ export function TeamSelector({ onPredict, isLoading }: TeamSelectorProps) {
     const [awayTeam, setAwayTeam] = useState<string>("");
     const [openHome, setOpenHome] = useState(false);
     const [openAway, setOpenAway] = useState(false);
+    const [error, setError] = useState<string | null>(null);
 
     useEffect(() => {
         const loadTeams = async () => {
+            setError(null);
             try {
                 const teamList = await api.getTeams();
                 setTeams(teamList);
-                if (teamList.includes("Real Madrid") && teamList.includes("Barcelona")) {
-                    setHomeTeam("Real Madrid");
-                    setAwayTeam("Barcelona");
+                if (teamList.length > 0 && !homeTeam) {
+                    if (teamList.includes("Real Madrid") && teamList.includes("Barcelona")) {
+                        setHomeTeam("Real Madrid");
+                        setAwayTeam("Barcelona");
+                    }
                 }
             } catch (error) {
                 console.error("Failed to load teams:", error);
+                setError("Could not connect to the prediction engine. Please ensure the backend is running on port 8000.");
             }
         };
         loadTeams();
@@ -99,6 +105,23 @@ export function TeamSelector({ onPredict, isLoading }: TeamSelectorProps) {
 
     return (
         <div className="glass-morphism rounded-2xl p-6 md:p-8 space-y-8 border border-white/10 shadow-2xl">
+            {error && (
+                <Alert variant="destructive" className="bg-destructive/10 border-destructive/20 text-destructive-foreground">
+                    <AlertCircle className="h-4 w-4" />
+                    <AlertTitle>Engine Offline</AlertTitle>
+                    <AlertDescription>
+                        {error}
+                        <Button
+                            variant="link"
+                            className="p-0 h-auto font-bold ml-2 text-destructive-foreground underline"
+                            onClick={() => window.location.reload()}
+                        >
+                            Retry Connection
+                        </Button>
+                    </AlertDescription>
+                </Alert>
+            )}
+
             <div className="grid md:grid-cols-2 gap-8">
                 <TeamCombobox
                     value={homeTeam}

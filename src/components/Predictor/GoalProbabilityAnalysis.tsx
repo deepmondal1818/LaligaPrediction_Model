@@ -13,8 +13,8 @@ export function GoalProbabilityAnalysis({ result }: GoalProbabilityAnalysisProps
         <div className="space-y-6">
             <div className="flex items-center justify-between">
                 <div className="flex items-center gap-2">
-                    <div className="w-1.5 h-6 bg-amber-500 rounded-full" />
-                    <h2 className="text-2xl font-bold text-slate-800">Goal Probability Analysis</h2>
+                    <div className="w-1.5 h-6 bg-rose-600 rounded-full" />
+                    <h2 className="text-2xl font-bold text-slate-800 uppercase tracking-tight">Goal Probability Analysis</h2>
                 </div>
                 <HelpCircle className="text-slate-300 pointer-events-auto cursor-help" size={20} />
             </div>
@@ -54,6 +54,7 @@ export function GoalProbabilityAnalysis({ result }: GoalProbabilityAnalysisProps
                         </p>
                     </div>
                 </div>
+
             </div>
         </div>
     );
