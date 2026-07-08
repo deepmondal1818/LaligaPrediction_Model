@@ -1,73 +1,490 @@
-# Welcome to your Lovable project
+# ⚽ LaLiga Predictor Pro
 
-## Project info
+<div align="center">
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=for-the-badge&logo=python)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green?style=for-the-badge&logo=fastapi)
+![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-Language-blue?style=for-the-badge&logo=typescript)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Random%20Forest-orange?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)
 
-## How can I edit this code?
+<h3>⚽ AI-Powered Football Match Prediction Platform</h3>
 
-There are several ways of editing your application.
+<p>
+Predict LaLiga matches using a hybrid Machine Learning system combining
+Random Forest, Poisson Distribution, Recent Form Analysis, and Advanced Football Analytics.
+</p>
 
-**Use Lovable**
+</div>
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+---
 
-Changes made via Lovable will be committed automatically to this repo.
+## 🚀 Overview
 
-**Use your preferred IDE**
+LaLiga Predictor Pro is a full-stack football analytics platform that predicts match outcomes and scorelines using a hybrid machine learning architecture.
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+The system combines statistical modeling, machine learning, team form analysis, player statistics, and historical performance data to generate intelligent football predictions with confidence scores.
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+### 🎯 Key Objectives
 
-Follow these steps:
+- Predict Match Winners
+- Predict Scorelines
+- Analyze Team Performance
+- Evaluate Recent Form
+- Compare Teams
+- Track Prediction History
+- Provide Explainable Football Analytics
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+---
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## 📸 Screenshots
 
-# Step 3: Install the necessary dependencies.
-npm i
+> Add your screenshots here
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+### Home Page
+
+![Home](assets/home.png)
+
+### Match Prediction
+
+![Prediction](assets/prediction.png)
+
+### Analytics Dashboard
+
+![Analytics](assets/analytics.png)
+
+### Prediction History
+
+![History](assets/history.png)
+
+---
+
+# 🏗 System Architecture
+
+```mermaid
+flowchart TD
+
+A[React Frontend]
+B[FastAPI Backend]
+C[Prediction Engine]
+
+D[Random Forest]
+E[Poisson Model]
+F[Recent Form Analyzer]
+G[Player Statistics]
+
+H[Prediction Result]
+I[SQLite Database]
+
+A --> B
+B --> C
+
+C --> D
+C --> E
+C --> F
+C --> G
+
+D --> H
+E --> H
+F --> H
+G --> H
+
+H --> I
+```
+
+---
+
+# 🧠 Machine Learning Pipeline
+
+```mermaid
+flowchart LR
+
+A[Historical Match Data]
+--> B[Data Cleaning]
+
+B --> C[Feature Engineering]
+
+C --> D[Random Forest]
+
+C --> E[Poisson Distribution]
+
+C --> F[Recent Form Analysis]
+
+D --> G[Hybrid Prediction Engine]
+E --> G
+F --> G
+
+G --> H[Final Prediction]
+```
+
+---
+
+# ✨ Features
+
+## ⚽ Hybrid Prediction Engine
+
+Unlike traditional football prediction systems, this platform combines multiple prediction methodologies.
+
+### Random Forest Model
+
+- Match Outcome Prediction
+- Historical Pattern Recognition
+- Feature-Based Classification
+
+### Poisson Distribution
+
+- Goal Probability Calculation
+- Expected Goals Prediction
+- Scoreline Estimation
+
+### Recent Form Analysis
+
+- Last 5 Matches
+- Momentum Tracking
+- Team Strength Evaluation
+
+### Head-to-Head Analysis
+
+- Historical Matchups
+- Rivalry Statistics
+- Performance Trends
+
+---
+
+## 📊 Analytics Dashboard
+
+### Team Comparison
+
+- Goals Scored
+- Goals Conceded
+- Win Rate
+- Draw Rate
+- Loss Rate
+
+### Performance Metrics
+
+- Attack Strength
+- Defensive Strength
+- Recent Form
+- Home Advantage
+- Away Performance
+
+---
+
+## 📈 Prediction Insights
+
+The platform provides:
+
+✅ Match Winner Prediction
+
+✅ Predicted Scoreline
+
+✅ Team Form Analysis
+
+✅ Goal Probabilities
+
+✅ Confidence Score
+
+✅ Historical Trends
+
+---
+
+# 🛠 Tech Stack
+
+## Frontend
+
+| Technology | Usage |
+|------------|--------|
+| React | UI Development |
+| TypeScript | Type Safety |
+| Tailwind CSS | Styling |
+| Axios | API Communication |
+| Vite | Build Tool |
+
+---
+
+## Backend
+
+| Technology | Usage |
+|------------|--------|
+| FastAPI | REST API |
+| Python | Core Backend |
+| SQLAlchemy | Database ORM |
+| Pydantic | Validation |
+| Uvicorn | ASGI Server |
+
+---
+
+## Machine Learning
+
+| Technology | Usage |
+|------------|--------|
+| Scikit-Learn | ML Models |
+| Random Forest | Outcome Prediction |
+| Poisson Distribution | Goal Prediction |
+| NumPy | Numerical Computing |
+| Pandas | Data Processing |
+
+---
+
+## Database
+
+| Technology | Usage |
+|------------|--------|
+| SQLite | Prediction Storage |
+
+---
+
+# 📂 Project Structure
+
+```bash
+laliga-predictor-pro/
+
+├── backend/
+│
+├── main.py
+├── predictor.py
+├── rf_model.py
+├── poisson_model.py
+├── form_analyzer.py
+├── player_data.py
+├── scraper.py
+├── database.py
+│
+├── src/
+│
+├── components/
+├── pages/
+├── hooks/
+├── assets/
+├── data/
+│
+├── public/
+│
+├── package.json
+├── requirements.txt
+└── README.md
+```
+
+---
+
+# ⚙ Installation
+
+## Clone Repository
+
+```bash
+git clone https://github.com/deepmondal1818/laliga-predictor-pro.git
+```
+
+```bash
+cd laliga-predictor-pro
+```
+
+---
+
+## Backend Setup
+
+```bash
+cd backend
+```
+
+Create Virtual Environment
+
+```bash
+python -m venv venv
+```
+
+Activate
+
+### Windows
+
+```bash
+venv\Scripts\activate
+```
+
+### Linux / Mac
+
+```bash
+source venv/bin/activate
+```
+
+Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+Run Server
+
+```bash
+python main.py
+```
+
+Backend:
+
+```bash
+http://localhost:8000
+```
+
+---
+
+## Frontend Setup
+
+```bash
+npm install
+```
+
+```bash
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Frontend:
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+```bash
+http://localhost:5173
+```
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+# 📡 API Endpoints
 
-## What technologies are used for this project?
+## Get Teams
 
-This project is built with:
+```http
+GET /api/teams
+```
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+---
 
-## How can I deploy this project?
+## Predict Match
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+```http
+POST /api/predict
+```
 
-## Can I connect a custom domain to my Lovable project?
+Request
 
-Yes, you can!
+```json
+{
+  "home_team": "Barcelona",
+  "away_team": "Real Madrid"
+}
+```
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
+---
 
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+## Prediction History
+
+```http
+GET /api/history
+```
+
+---
+
+## Refresh Dataset
+
+```http
+POST /api/refresh
+```
+
+---
+
+# 🧪 Example Prediction Response
+
+```json
+{
+  "home_team": "Barcelona",
+  "away_team": "Real Madrid",
+  "predicted_winner": "Barcelona",
+  "predicted_score": "2-1",
+  "confidence": 82.4,
+  "home_win_probability": 62,
+  "draw_probability": 18,
+  "away_win_probability": 20
+}
+```
+
+---
+
+# 🎯 Project Highlights
+
+### ✔ Hybrid AI Architecture
+
+Combines:
+
+- Random Forest
+- Poisson Distribution
+- Recent Form Analysis
+- Team Statistics
+
+### ✔ Full Stack Development
+
+- React Frontend
+- FastAPI Backend
+- Database Integration
+- REST APIs
+
+### ✔ Machine Learning
+
+- Feature Engineering
+- Classification Models
+- Statistical Modeling
+- Confidence Scoring
+
+### ✔ Data Analytics
+
+- Team Performance Analysis
+- Historical Insights
+- Football Statistics
+
+---
+
+# 📈 Future Improvements
+
+- Live Match Data API
+- Injury Tracking
+- Expected Goals (xG)
+- Deep Learning Models
+- Multi-League Support
+- User Authentication
+- Docker Deployment
+- CI/CD Integration
+- Cloud Deployment (AWS)
+
+---
+
+# 📚 Learning Outcomes
+
+This project demonstrates:
+
+- Full Stack Development
+- Machine Learning Engineering
+- Data Processing
+- Feature Engineering
+- Statistical Modeling
+- API Development
+- Database Design
+- Software Architecture
+
+---
+
+# 👨‍💻 Author
+
+## Deep Mondal
+
+**Full Stack Developer | Machine Learning Enthusiast**
+
+📧 deepmndl2003@gmail.com
+
+💻 GitHub: https://github.com/deepmondal1818
+
+---
+
+<div align="center">
+
+### ⭐ If you found this project useful, consider giving it a Star ⭐
+
+🚀 Built with React, FastAPI, Machine Learning & Football Analytics
+
+</div>
